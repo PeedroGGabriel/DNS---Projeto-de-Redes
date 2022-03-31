@@ -1,4 +1,4 @@
-# DNS
+# Implementação de serviço de DNS
 
 Imagem 1 - SERVIÇO DNS (Domain Name System)
 
